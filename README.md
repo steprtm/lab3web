@@ -218,7 +218,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['submit'])) {
 
 Hasil:
 
-![firefox_XjAn5Okdcj](https://github.com/steprtm/lab3web/assets/129705802/96ef5bba-2205-47bf-8456-3d635da217b6)
+![firefox_hjXHqzAuwx](https://github.com/steprtm/lab3web/assets/129705802/b93e944d-aaef-4e9b-8b07-57ab812326d6)
+
 
 
 
